@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Upload Files</name>
+   <tag></tag>
+   <elementGuidId>6f1c11ae-d625-4b72-a87f-77e7470a36dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div[3]/div/div/div/div/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.css-14fz811.e12cce780</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>45f82635-cb4f-49be-8279-7d7445125e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>upload-button</value>
+      <webElementGuid>68dbf69d-38cd-47e2-88ab-30d067a1e7cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-14fz811 e12cce780</value>
+      <webElementGuid>7a20ea91-4ae5-4e29-a7fd-19ddb79794b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Files</value>
+      <webElementGuid>8f31adda-fa96-41ca-b582-10acc30eca34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;css-15d18jh&quot;]/div[@class=&quot;css-3kiol&quot;]/div[@class=&quot;css-1rkn13x&quot;]/div[@class=&quot;css-18ykikx&quot;]/div[@class=&quot;floater-pane&quot;]/div[@class=&quot;css-1jzrfsj&quot;]/div[@class=&quot;css-kcy7ij&quot;]/div[1]/label[@class=&quot;css-14fz811 e12cce780&quot;]</value>
+      <webElementGuid>1cd68d69-d663-49bb-b8c8-43bafd8491e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div[3]/div/div/div/div/div/div[2]/div/label</value>
+      <webElementGuid>771dfef4-b348-4f93-b483-2f8cd096e627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[1]/following::label[1]</value>
+      <webElementGuid>0484875b-e31b-4a28-9f76-cd02849d37be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[2]/following::label[1]</value>
+      <webElementGuid>11ada02e-123e-4a56-a211-6c1f2ab1b0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload a folder'])[1]/preceding::label[1]</value>
+      <webElementGuid>d8e807fa-7450-4ca0-9cef-8f320f715b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload Files']/parent::*</value>
+      <webElementGuid>c89787a6-ab96-448f-a171-8dddbe0a5a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>2cefc912-bcf0-45cc-bc03-060db025881e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Upload Files' or . = 'Upload Files')]</value>
+      <webElementGuid>07c787de-00a6-4ac3-b7c4-e8299af2eafe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TestData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>bfbb2fdb-f7e8-4047-93dc-add04f7c0c18</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <data>null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Kategori</name>
+      <size>15</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>idData</name>
+      <size>15</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Value</name>
+      <size>15</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
